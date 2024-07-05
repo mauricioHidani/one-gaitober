@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="./assets/icons/alura-logo.svg" />
+    <link rel="stylesheet" href="./assets/styles/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <title>Gaitober</title>
+</head>
+<body>
+    <header>
+        <a href="https://www.alura.com.br/" target="_blank" title="alura"><img src="./assets/icons/alura-logo.svg" alt="alura logo" width="52px"></a>
+        <h1>Encryptor Gaitober</h1>
+    </header>
+    <main>
+        <section class="encryption-content">
+            <textarea name="input" id="input" placeholder="Digite seu texto"></textarea>
+            <p><img src="./assets/icons/bi_exclamation-circle-fill.svg" alt="alerta"><span id="info">Utilize apenas letras minúsculas, não utilize letras com acentos nem caracteres especiais</span></p>
+            <div class="actions-content">
+                <button onclick="onEncypt()" class="dark">Encriptar</button>
+                <button onclick="onDecrypt()" class="light">Desencriptar</button>
+            </div>
+        </section>
+        <section class="decryption-content">
+            <p class="result-decryption" id="output">Nenhuma mensagem</p>
+            <button onclick="onClip()" disabled class="dark" id="clipboard">Copiar</button>
+        </section>
+    </main>
+    <footer>
+        <ul class="presentation">
+            <li>Created by Mauricio M. Hidani</li>
+            <li>Create at Friday, July 5, 2024 - São Paulo, Brazil</li>
+            <li>Gaitober version 1.0.0</li>
+        </ul>
+        <ul class="contact">
+            <li><a href="https://www.linkedin.com/in/mauricio-hidani" target="_blank" title="linkedin">Linkedin</a></li>
+            <li><a href="https://www.github.com/mauricioHidani" target="_blank" title="github">Github</a></li>
+        </ul>
+    </footer>
+    <script src="./assets/js/gaitober.js"></script>
+</body>
+</html>
