@@ -35,3 +35,8 @@ O resultado deve ser exibido na tela.
 **Extras:**
 Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
+**Imagem do desafio em desktop**
+![desktop gaitober challenge](https://raw.githubusercontent.com/mauricioHidani/brainStorage/main/assets/images/descktop_screen_alura_one_gaitober.png)
+
+**Imagem do desafio em mobile**
+![mobile gaitober challenge](https://raw.githubusercontent.com/mauricioHidani/brainStorage/main/assets/images/mobile_screen_alura_one_gaitober.png)
