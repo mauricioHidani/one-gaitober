@@ -4,6 +4,11 @@
 - [Alura](https://www.alura.com.br/)
 - [ONE](https://www.oracle.com/br/education/oracle-next-education/)
 
+## Tecnologias utilizadas
+- HTML
+- CSS
+- Javascript
+
 ## Descrição
 Durante estas duas semanas, vamos trabalhar em uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
