@@ -1,6 +1,8 @@
 # Desafio Gaitober
 📃Desafio Criptografia traca de letras<br>
-📅Friday, July 5, 2024 - 🚩Alura ONE Turma 7<br>
+📅Friday, July 5, 2024 - 🚩Alura_ONE Turma 7<br>
+- [Alura](https://www.alura.com.br/)
+- [ONE](https://www.oracle.com/br/education/oracle-next-education/)
 
 ## Descrição
 Durante estas duas semanas, vamos trabalhar em uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
